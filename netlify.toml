@@ -1,4 +1,2 @@
 [[redirects]]
-from = "*"
-to = "index.php"
-status = 200
+/* /index.php 200
